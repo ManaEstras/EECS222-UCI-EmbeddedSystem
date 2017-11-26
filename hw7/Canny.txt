@@ -1,0 +1,6 @@
+Model Frame             Delay Total          simulation time
+CannyA7_step1 ...              0us ...                           0 us
+CannyA7_step2 ...       39285000us ...                   261900000 us         
+CannyA7_step3 ...       39285000us ...                   261900000 us
+CannyA7_step4 ...       39285000us ...                   261900000 us
+CannyA7_step5           28663125 us                      8160000 us
