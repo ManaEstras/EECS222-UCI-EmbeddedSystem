@@ -1,0 +1,8 @@
+* SC_Modified: 5/7/17 - Convert the program into SpecC runable. 
+*                       Clean-up the source code so that there are no compilation warnings     
+*                       Fix the application parameters for synthesis
+*                       Remove or replace all dynamic memory allocation
+*                       (Jieneng Yang)
+
+The program runs successfully in scc. At first I used 2D arrays to replace the pointer variables with dynamic memory allocation, but it did not work because the functions are based on 1D pointers representing 2D arrays. After using 1D arrays, the probelm was solved. 
+*

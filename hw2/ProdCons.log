@@ -1,0 +1,47 @@
+Script started on Wed 12 Apr 2017 06:58:19 PM PDT
+]0;jienengy@zuma:hw2[jienengy@zuma hw2]$ ./ProdCons
+Main starts.
+Producer starts.
+Producer sends 'A'
+Consumer starts.
+Consumer received 'A'.
+Producer sends 'p'
+Consumer received 'p'.
+Producer sends 'p'
+Consumer received 'p'.
+Producer sends 'l'
+Consumer received 'l'.
+Producer sends 'e'
+Consumer received 'e'.
+Producer sends 's'
+Consumer received 's'.
+Producer sends ' '
+Consumer received ' '.
+Producer sends 'a'
+Consumer received 'a'.
+Producer sends 'n'
+Consumer received 'n'.
+Producer sends 'd'
+Consumer received 'd'.
+Producer sends ' '
+Consumer received ' '.
+Producer sends 'O'
+Consumer received 'O'.
+Producer sends 'r'
+Consumer received 'r'.
+Producer sends 'a'
+Consumer received 'a'.
+Producer sends 'n'
+Consumer received 'n'.
+Producer sends 'g'
+Consumer received 'g'.
+Producer sends 'e'
+Consumer received 'e'.
+Producer sends 's'
+Consumer received 's'.
+Consumer starts.
+Producer endsMain Done.
+]0;jienengy@zuma:hw2[jienengy@zuma hw2]$ exit
+exit
+
+Script done on Wed 12 Apr 2017 06:58:33 PM PDT

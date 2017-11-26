@@ -1,0 +1,52 @@
+Script started on Sun 23 Apr 2017 08:33:41 PM PDT
+]0;jienengy@zuma:hw3[jienengy@zuma hw3]$ ./ProdCons
+
+        SystemC 2.3.1-Accellera --- Apr  2 2015 08:50:05
+        Copyright (c) 1996-2014 by all Contributors,
+        ALL RIGHTS RESERVED
+SC_Main starts
+Producer starts
+Producer sents'A'.
+Producer sents'p'.
+Comusumer starts
+Consumer received'A'.
+Producer sents'p'.
+Consumer received'p'.
+Producer sents'l'.
+Consumer received'p'.
+Producer sents'e'.
+Consumer received'l'.
+Producer sents's'.
+Consumer received'e'.
+Producer sents' '.
+Consumer received's'.
+Producer sents'a'.
+Consumer received' '.
+Producer sents'n'.
+Consumer received'a'.
+Producer sents'd'.
+Consumer received'n'.
+Producer sents' '.
+Consumer received'd'.
+Producer sents'O'.
+Consumer received' '.
+Producer sents'r'.
+Consumer received'O'.
+Producer sents'a'.
+Consumer received'r'.
+Producer sents'n'.
+Consumer received'a'.
+Producer sents'g'.
+Consumer received'n'.
+Producer sents'e'.
+Consumer received'g'.
+Producer sents's'.
+Consumer received'e'.
+Producer done
+Consumer received's'.
+Comusumer done
+SC_Main done
+]0;jienengy@zuma:hw3[jienengy@zuma hw3]$ ed[Kxit
+exit
+
+Script done on Sun 23 Apr 2017 08:33:56 PM PDT
