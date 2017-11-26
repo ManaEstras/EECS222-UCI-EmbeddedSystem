@@ -1,0 +1,13 @@
+Jieneng Yang
+
+ complexity comparison table
+ 
+Gaussian_Smooth ...83.42%
+|-----------------Gaussian_Kernel ...4.73*10^-6%
+|-----------------BlurX ...40.19%
+\-----------------BlurY ...39/26%
+Derivative_X_Y ...3.13%
+Magnitude_X_Y ...2.66%
+Non_Max_Supp ...6.61%
+Apply_Hysteresis ...4.16%
+                    100% 
